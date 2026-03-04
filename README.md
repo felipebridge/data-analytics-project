@@ -1,6 +1,4 @@
-# 🎧 Spotify Streaming Analytics – ETL (Python) + Docker (PostgreSQL) + Power BI
-
-## 📌 Descripción del Proyecto
+# Data Analytics Project – Spotify Streaming Analytics
 
 Proyecto de Data Analytics enfocado en el análisis de consumo musical utilizando Dataset de Spotify.
 
