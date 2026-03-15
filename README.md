@@ -1,4 +1,4 @@
-# Data Analytics Project – Spotify Streaming Analytics
+# Data Analytics Project – Streaming Analytics
 
 Proyecto de Data Analytics enfocado en el análisis de consumo musical utilizando Dataset de Spotify.
 
