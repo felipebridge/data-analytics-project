@@ -1,6 +1,4 @@
 # Data Analytics Project – Streaming Analytics
-## Dashboard
-
 ![Dashboard Página 1](docs/img1.png)
 
 ![Dashboard Página 2](docs/img2.png)
